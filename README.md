@@ -1,6 +1,6 @@
 # chat-client
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the chat client for my backend repository: 'nest-playground'
 
 ## Recommended IDE Setup
 
